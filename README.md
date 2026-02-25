@@ -7,3 +7,5 @@ Original tutorial & code: [Ταξίδι στο Αύριο](https://travletothefu
 1. Clone this repository
 2. Run `python password_generator.py`
 3. Follow the on-screen instructions
+
+Original tutorial & code: Τεχνολογία, Ρομποτική και Προγραμματισμός: Ταξίδι στο αύριο https://travletothefurureprogramming.blogspot.com/ 
